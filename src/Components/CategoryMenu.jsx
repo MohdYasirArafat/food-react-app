@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
-import { setCategory } from "../redux/slices/categorySlice";
+import { setCategory } from "../redux/slices/CategorySlice";
 
 const CategoryMenu = () => {
   const [categories, setCategories] = useState([]);
