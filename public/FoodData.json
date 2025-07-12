@@ -1,0 +1,85 @@
+{
+  "foodData": [
+    {
+      "img": "https://img.freepik.com/free-photo/seafood-pizza_74190-5944.jpg?w=996&t=st=1693062328~exp=1693062928~hmac=53fd9ad496580db41c6ca8066510cd89c6b0a0389de8bb6b875a78a1eda09cb5",
+      "name": "Onion Chees Pizza",
+      "price": "250",
+      "desc": "A delicious pizza topped with fresh onions for a delightful flavor combination. This pizza is perfect for onion lovers and offers a unique twist on the classic pizza experience. Enjoy the perfect blend of cheesy goodness and the sharp taste of onions in every bite. Whether you're sharing with friends or enjoying it all to yourself, this Onion Pizza is sure to satisfy your pizza cravings.",
+      "category": "Dinner",
+      "rating": 4.5,
+      "id": "1"
+    },
+    {
+      "img": "https://w7.pngwing.com/pngs/339/55/png-transparent-pizza-margherita-italian-cuisine-hot-dog-pizza-cheese-pizza-thumbnail.png",
+      "name": "Onion Pizza",
+      "price": 150,
+      "desc": "A delicious pizza topped with fresh onions for a delightful flavor combination. This pizza is perfect for onion lovers and offers a unique twist on the classic pizza experience. Enjoy the perfect blend of cheesy goodness and the sharp taste of onions in every bite. Whether you're sharing with friends or enjoying it all to yourself, this Onion Pizza is sure to satisfy your pizza cravings.",
+      "category": "Lunch",
+      "rating": 4.5,
+      "id": "4"
+    },
+    {
+      "img": "https://w7.pngwing.com/pngs/569/109/png-transparent-pizza-with-vegetables-and-mushroom-toppings-sicilian-pizza-california-style-pizza-pizza-margherita-vegetarian-cuisine-pizza-food-recipe-gourmet-thumbnail.png",
+      "name": "Paneer Pizza",
+      "price": "200",
+      "desc": "good deelicious",
+      "category": "Brekfast",
+      "rating": "4.7",
+      "id": "70f5"
+    },
+    {
+      "id": "5720",
+      "name": "Buger",
+      "img": "https://img.freepik.com/free-photo/seafood-pizza_74190-5944.jpg?w=996&t=st=1693062328~exp=1693062928~hmac=53fd9ad496580db41c6ca8066510cd89c6b0a0389de8bb6b875a78a1eda09cb5",
+      "price": "230",
+      "desc": "campa",
+      "category": "snaks",
+      "rating": "4.5"
+    },
+    {
+      "img": "https://w7.pngwing.com/pngs/339/55/png-transparent-pizza-margherita-italian-cuisine-hot-dog-pizza-cheese-pizza-thumbnail.png",
+      "name": "onino pizza",
+      "price": "234",
+      "desc": "dfgh",
+      "category": "Brekfast",
+      "rating": "4",
+      "id": "b393"
+    },
+    {
+      "id": "bf16",
+      "img": "https://w7.pngwing.com/pngs/843/171/png-transparent-pizza-73-restaurant-catupiry-chicken-as-food-pizza-baked-goods-food-recipe-thumbnail.png",
+      "name": "BBQ Chicken Pizza",
+      "price": "456",
+      "desc": "Savor the smoky goodness of this BBQ Chicken Pizza, featuring tender pieces of chicken marinated in barbecue sauce, red onions, and a medley of cheeses. A fusion of flavors that's sure to delight your taste buds.",
+      "category": "Lunch",
+      "rating": "3.6"
+    },
+    {
+      "id": "b204",
+      "img": "https://w7.pngwing.com/pngs/133/54/png-transparent-pancakes-served-on-plate-banana-pancakes-scrambled-eggs-breakfast-ihop-pancake-food-recipe-eating-thumbnail.png",
+      "name": "Classic Pancakes",
+      "price": "236",
+      "desc": "Start your day with a stack of fluffy pancakes served with maple syrup and a dollop of butter. A timeless breakfast favorite that's sure to satisfy your morning cravings.\",\n",
+      "category": "Breakfast",
+      "rating": "5"
+    },
+    {
+      "id": "f2f1",
+      "img": "https://w7.pngwing.com/pngs/683/103/png-transparent-frozen-yogurt-parfait-breakfast-yoghurt-fruit-salad-yogurt-frutti-di-bosco-food-breakfast-thumbnail.png",
+      "name": "Greek Yogurt Parfait",
+      "price": "34567",
+      "desc": "sdfgh",
+      "category": "Breakfast",
+      "rating": "4.9"
+    },
+    {
+      "id": "d6e5",
+      "name": "Paneer Pizza",
+      "img": "https://img.freepik.com/free-photo/seafood-pizza_74190-5944.jpg?w=996&t=st=1693062328~exp=1693062928~hmac=53fd9ad496580db41c6ca8066510cd89c6b0a0389de8bb6b875a78a1eda09cb5",
+      "price": "456",
+      "desc": "fghj",
+      "category": "Breakfast",
+      "rating": "3.8"
+    }
+  ]
+}
